@@ -3,3 +3,4 @@ djangorestframework~=3.14
 psycopg2~=2.9
 drf-spectacular~=0.24
 Pillow~=9.3
+uwsgi~=2.0
